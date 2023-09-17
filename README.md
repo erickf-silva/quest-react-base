@@ -11,7 +11,7 @@ Esse projeto é uma Quest do curso DevQuest e será enviada para correção. O o
 
 ### Design desktop 🖥️
 
-<img src="design/desktop-design.gif" alt="desktop design">
+<img src="public/mobile-design.gif" alt="desktop design">
 
 ## Links
 
