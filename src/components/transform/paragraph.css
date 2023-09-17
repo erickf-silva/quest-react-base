@@ -1,0 +1,16 @@
+.paragrafo {
+    padding: 20px;
+    background-color: #4a8ec9;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    width: 200px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.paragrafo:hover {
+    transition: 0.3s;
+    transform: scale(1.10);
+    background-color: #4a50c9;
+}
